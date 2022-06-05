@@ -1,0 +1,55 @@
+body {
+
+background-color: orange;
+
+}
+
+header nav h1{
+   text-align: center;
+   color: purple;
+}
+
+#Baslik {
+
+   text-align: center ; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 32px;
+   border: 2px solid black;
+   
+   
+}
+
+#Siteler-Gecis {
+
+   text-align: center;
+   color: black;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#Siteler-Gecis a {
+
+    color: white;
+    font-size: 18px;
+
+}
+
+#Orta-Kisim {
+
+    text-align: center;
+}
+
+ .iul{
+
+  margin-left: 600px;
+
+}
+
+.uol {
+
+   margin-left: 470px;
+
+}
+
+
+
